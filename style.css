@@ -1,0 +1,9 @@
+menu{
+    position: sticky;
+    top: 0;
+    z-index:99999
+}
+
+img1{
+    text-align:center;
+}
